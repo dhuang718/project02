@@ -1,6 +1,6 @@
-Daniel Huang /n
-CIS/STA 9760 
-Project 2
+### Daniel Huang
+### CIS/STA 9760 
+### Project 2
 
 # Analyzing 10Gb of Yelp Reviews Data
 
