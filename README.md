@@ -1,10 +1,16 @@
 # Analyzing 10Gb of Yelp Reviews Data
 
-We will analyze a subset of Yelp's business, reviews and user data. This dataset comes to us from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset) although we have taken steps to pull this data into a publis s3 bucket: `s3://sta9760-yelpdataset/yelp-light/*business.json`
+For this project, I will use pyspark to analyze 10gb of Yelp data, including the following tables: business , review, and user. I will be using a python notebook with a pyspark kernel to conduct my analysis and show my understanding of utilizing Apache Spark technology. This project was done with AWS EMR. 
 
-## [Analysis](https://github.com/mottaquikarim/STA9760_Project2_Yelp_Data_Analysis/blob/master/Analysis.ipynb)
+Link to Kaggle dataset used:
+https://www.kaggle.com/yelp-dataset/yelp-dataset
 
-Note that the output of the code written is provided as a means to give you structure as you write your analysis. For **Parts I, II & III**, you must fill in the blanks (however way you want) to get the output provided in the file. (Mainly columns and aggregations, I don't care about the exact rows). For **Parts III and IV**, you are more flexibility to take the analysis further however you see fit.
+I will be storing the data in my S3 bucket below:
+'s3://yelpdatasta9760/*'
+
+## Analysis link
+
+https://github.com/dhuang718/project02/Analysis.ipynb
 
 ## Cluster and Notebook Configs
 
