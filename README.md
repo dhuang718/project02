@@ -10,7 +10,7 @@ I will be storing the data in my S3 bucket below:
 
 ## Analysis link
 
-https://github.com/dhuang718/project02/Analysis.ipynb
+https://github.com/dhuang718/project02/blob/main/Analysis.ipynb
 
 ## Cluster and Notebook Configs
 
